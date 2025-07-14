@@ -17,6 +17,7 @@
 
 1. Create virtual environment:
 ```bash
+export PYTHONPATH=your-path-to-folder
 python3.9 -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 ```
