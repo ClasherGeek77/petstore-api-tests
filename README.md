@@ -1,5 +1,8 @@
 # PetStore API Automation
 
+👉 [Click here to view test-report.html](https://clashergeek77.github.io/ClasherGeek77/test-report.html)
+
+
 ## 🧪 Tech Stack
 
 - Python 3.9
